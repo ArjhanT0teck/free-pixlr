@@ -2,7 +2,11 @@
 It is absolutely disguising how they make you pay for https://pixlr.com/x/#editor so I made this so you can download it for free, the original idea was here https://www.reddit.com/r/pixlr/comments/112ro0l/how_to_bypass_the_image_limit/
 
 # How to use 
-Paste this into the console on https://pixlr.com/x/#editor
+Paste main.js into the console on https://pixlr.com/x/#editor
+
+
+OR USE
+
 
 Bookmarklet version
 
